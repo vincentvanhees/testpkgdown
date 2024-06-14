@@ -1,0 +1,21 @@
+---
+title: "Contributing"
+output:
+   html_document:
+    toc : true
+    number_sections: true
+    toc_depth: 3
+    toc_float: true #by turning this on, the table of contents moves to the left of the page.
+urlcolor: blue
+vignette: >
+  %\VignetteIndexEntry{Contributing}
+  \usepackage[utf8]{inputenc}
+  %\VignetteEngine{knitr::rmarkdown}
+header-includes:
+  - \usepackage{titling}
+  - \pretitle{\begin{center}
+    \includegraphics[]{GGIR-MASTERLOGO-RGB.png}\LARGE\\}
+  - \posttitle{\end{center}}
+---
+
+...

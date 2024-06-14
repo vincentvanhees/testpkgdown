@@ -1,0 +1,16 @@
+Package: testpkgdown
+Type: Package
+Title: Testpkgdown
+Version: 0.0-1
+Date: 2024-06-14
+Authors@R: c(person("Vincent T","van Hees",role=c("aut","cre"),
+                  email="v.vanhees@accelting.com"))
+Maintainer: Vincent T van Hees <v.vanhees@accelting.com>
+Description: Test pkgdown.
+License: Apache License version 2.0 | file LICENSE
+Suggests: roxygen2
+Depends: R (>= 3.5.0)
+NeedsCompilation: no
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Encoding: UTF-8
