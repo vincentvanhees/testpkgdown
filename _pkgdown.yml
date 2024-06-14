@@ -6,6 +6,6 @@ navbar:
   components:
     contributing:
       text: Contributing
-      href: articles/contributing.html
+      href: articles/Contributing.html
     structure:
         left: [contributing]
